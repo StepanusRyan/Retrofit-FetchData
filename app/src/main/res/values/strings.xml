@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fetch Data - Retrofit</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="data1">Data 1</string>
+    <string name="data2">Data 2</string>
+    <string name="data3">Data 3</string>
+    <string name="data4">Data 4</string>
+    <string name="data5">Data 5</string>
+    <string name="data6">Data 6</string>
+    <string name="get_data">GET DATA</string>
+    <string name="info_gempa">Info Gempa</string>
+</resources>
